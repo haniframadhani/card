@@ -1,0 +1,12 @@
+<svg id="segi6" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 5.291666 5.291667" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
+	<style>
+		<![CDATA[#segi6-segienam_to {animation: segi6-segienam_to__to 8000ms linear infinite normal forwards}@keyframes segi6-segienam_to__to { 0% {transform: translate(2.650000px,2.650000px)} 12.500000% {transform: translate(2.650000px,3px)} 25% {transform: translate(2.650000px,2.650000px)} 37.500000% {transform: translate(2.650000px,2.300000px)} 50% {transform: translate(2.650000px,2.650000px)} 62.500000% {transform: translate(2.650000px,3px)} 75% {transform: translate(2.650000px,2.650000px)} 87.500000% {transform: translate(2.650000px,2.300000px)} 100% {transform: translate(2.650000px,2.650000px)} }#segi6-segienam_tr {animation: segi6-segienam_tr__tr 8000ms linear infinite normal forwards}@keyframes segi6-segienam_tr__tr { 0% {transform: rotate(0deg)} 50% {transform: rotate(360deg)} 100% {transform: rotate(720deg)} }]]>
+	</style>
+	<g id="segi6-segienam_to" transform="translate(2.650000,2.650000)">
+		<g id="segi6-segienam_tr" transform="rotate(0)">
+			<g id="segi6-segienam" transform="translate(-2.645833,-2.645833)">
+				<path id="segi6-rect12" d="M4.614750,1.339844L0,9.332736L4.614750,17.325628L13.844251,17.325628L18.459002,9.332736L13.844251,1.339844L4.614750,1.339844Z" transform="matrix(0.26458300000000 0 0 0.26458300000000 0.20386421500000 0.17655019999999)" fill="rgb(0,0,0)" fill-opacity="0" stroke="rgba(57,255,20,.2)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+		</g>
+	</g>
+	</g>
+</svg>

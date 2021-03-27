@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: poppins, sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: #000000;
+  background-image: url(img/segi6-animated.svg);
+  background-size: repeat;
+  background-size: 1.2%;
+}
+
+.latar img {
+}
+
+.card {
+  margin: 10px auto;
+  background-color: #181818;
+  width: 25rem;
+  border-radius: 4px;
+  display: flex;
+  justify-content: center;
+  box-shadow: 0 0 15px rgba(77, 255, 46, 0.4);
+}
+
+h1 {
+  font-weight: 700;
+  padding-top: 15px;
+  color: #fefefe;
+}
+
+p {
+  font-weight: 400;
+  padding-top: 5px;
+  padding-bottom: 10px;
+  color: #f0f0f0;
+}
+
+.body img {
+  max-width: 100%;
+}
+
+.social-media ul {
+  padding: 0;
+  margin-top: 5px;
+  margin-bottom: 25px;
+}
+
+.social-media li {
+  display: inline-block;
+  background-color: #252525;
+  padding: 5px;
+  border-radius: 6px;
+}
+
+.social-media li a {
+  text-decoration: none;
+  font-size: 1.12em;
+  color: #f0f0f0;
+}

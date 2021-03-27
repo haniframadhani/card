@@ -14,7 +14,7 @@ body {
   background-color: #000000;
   background-image: url(img/segi6-animated.svg);
   background-size: repeat;
-  background-size: 1.2%;
+  background-size: 10px;
 }
 
 .card {

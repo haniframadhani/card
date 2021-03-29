@@ -27,21 +27,44 @@ body {
   box-shadow: 0 0 15px rgba(77, 255, 46, 0.4);
 }
 
+.container {
+  margin: 25px;
+}
+
 h1 {
   font-weight: 700;
-  padding-top: 15px;
+  margin-top: -10px;
+  /* padding-top: 15px; */
   color: #fefefe;
 }
 
-p {
-  font-weight: 400;
-  padding-top: 5px;
+h3 {
+  font-weight: 500;
+  padding-top: 3px;
   padding-bottom: 10px;
   color: #f0f0f0;
 }
+p {
+  color: #f0f0f0;
+  text-align: justify;
+}
 
-.body img {
+.banner {
   max-width: 100%;
+  border-radius: 4px 4px 0 0;
+  z-index: 2;
+}
+
+.profile {
+  border-radius: 50%;
+  margin-top: -100px;
+  width: 200px;
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.2);
+  z-index: 200;
+}
+
+.kotak {
+  margin: 0 40px 0 40px;
 }
 
 .social-media ul {
@@ -52,6 +75,7 @@ p {
 
 .social-media li {
   display: inline-block;
+  margin-top: 5px;
   background-color: #252525;
   padding: 5px;
   border-radius: 6px;

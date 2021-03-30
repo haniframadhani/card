@@ -34,7 +34,6 @@ body {
 h1 {
   font-weight: 700;
   margin-top: -10px;
-  /* padding-top: 15px; */
   color: #fefefe;
 }
 
@@ -52,7 +51,6 @@ p {
 .banner {
   max-width: 100%;
   border-radius: 4px 4px 0 0;
-  z-index: 2;
 }
 
 .profile {
@@ -85,4 +83,10 @@ p {
   text-decoration: none;
   font-size: 1.12em;
   color: #f0f0f0;
+  margin-top: -100px !important;
+}
+
+.social-media li img {
+  width: 20px;
+  vertical-align: center;
 }
